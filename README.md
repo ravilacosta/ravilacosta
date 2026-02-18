@@ -31,8 +31,8 @@ Possuo uma base construída através das seguintes disciplinas:
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn]:(https://www.linkedin.com/in/ravila-costa-315168347)
-[![Email](ravilameireles88@hotmail.com)
+[LinkedIn](https://www.linkedin.com/in/ravila-costa-315168347)
+[Email](ravilameireles88@hotmail.com)
 
 ---
 
