@@ -4,6 +4,35 @@
 
 Me chamo Rávila Costa, tenho 37 anos e sou natural do Pará. Formada em Administrção atualmente estudante do curso **Técnico em Desenvolvimento de Sistemas** (4º semestre) em busca da minha primeira oportunidade como **estagiária** para aplicar conhecimentos teóricos em projetos reais. Em transição de Carreira começando a ser apaixonar por tecnologia.
 
+<br/>
+
+### 🎯 Minhas Competências Técnicas (Formação)
+
+No curso Técnico em Desenvolvimento de Sistemas, solidifiquei conhecimentos em:
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Lógica%20de%20Programação-FF5733?style=for-the-badge&logo=opsgenie&logoColor=white" alt="Lógica de Programação" />
+<img src="https://img.shields.io/badge/Prog.%20de%20Aplicativos-FFC300?style=for-the-badge&logo=android&logoColor=black" alt="Programação de Aplicativos" />
+<img src="https://img.shields.io/badge/Desenvolvimento%20de%20Sistemas-DAF7A6?style=for-the-badge&logo=codesandbox&logoColor=black" alt="Desenvolvimento de Sistemas" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Banco%20de%20Dados-33FF57?style=for-the-badge&logo=databricks&logoColor=white" alt="Banco de Dados" />
+<img src="https://img.shields.io/badge/Modelagem%20de%20Sistemas-33FFF9?style=for-the-badge&logo=diagrams.net&logoColor=black" alt="Modelagem de Sistemas" />
+<img src="https://img.shields.io/badge/Implantação%20de%20Sistemas-3357FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Implantação de Sistemas" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Testes%20de%20Sistemas-8E44AD?style=for-the-badge&logo=testcafe&logoColor=white" alt="Testes de Sistemas" />
+<img src="https://img.shields.io/badge/Internet%20das%20Coisas%20(IoT)-C70039?style=for-the-badge&logo=arduino&logoColor=white" alt="Internet das Coisas" />
+
+</div>
+
+<br/>
+<br/>
 
 ### 🤖 Linguagens e Tecnologias
 
