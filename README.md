@@ -81,8 +81,12 @@ Me chamo Rávila Costa, tenho 37 anos e sou natural do Pará. Formada em Adminis
 
 ### 📫 Vamos nos conectar?
 
-[LinkedIn](https://www.linkedin.com/in/ravila-costa-315168347)
-[Email](ravilameireles88@hotmail.com)
+<a href="https://www.linkedin.com/in/ravila-costa-315168347" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40px" title="LinkedIn" alt="LinkedIn" style="padding-right: 10px;">
+</a>
+<a href="mailto:ravilameireles88@hotmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40px" title="Email" alt="Email">
+</a>
 
 ---
 
